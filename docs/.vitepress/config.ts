@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'AIGoCode 文档',
   description: 'AI 模型中转服务配置指南',
   lang: 'zh-CN',
+  ignoreDeadLinks: true,
   
   themeConfig: {
     logo: '/logo.svg',
