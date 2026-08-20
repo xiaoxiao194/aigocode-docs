@@ -24,15 +24,11 @@ API Key：你的密钥（在个人中心获取）
 
 启动 Cherry Studio，点击左下角的 **设置图标** ⚙️
 
-![设置入口](./images/cherry-settings.png)
-
 ### 2. 添加服务提供商
 
 1. 在设置页面，点击左侧 **「模型服务商」**
 2. 点击右上角 **「+ 添加」** 按钮
 3. 选择 **「OpenAI」** 类型（因为 AIGoCode 兼容 OpenAI 格式）
-
-![添加服务商](./images/cherry-add-provider.png)
 
 ### 3. 填写配置
 
@@ -50,8 +46,6 @@ API Key：你的密钥（在个人中心获取）
 - 可以勾选「测试连接」来验证配置是否正确
 :::
 
-![填写配置](./images/cherry-config.png)
-
 ### 4. 选择模型
 
 配置完成后，点击 **「保存」**，然后：
@@ -60,8 +54,6 @@ API Key：你的密钥（在个人中心获取）
 2. 点击顶部的 **模型选择器**
 3. 在下拉列表中，找到 **AIGoCode** 分组
 4. 选择 `gpt-4o` 或其他你想用的模型
-
-![选择模型](./images/cherry-select-model.png)
 
 ## 验证是否成功
 
